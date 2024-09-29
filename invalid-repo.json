@@ -1,4 +1,7 @@
 {
-    "name": "Invalid Repo",
+    "name": "Invalid repo",
     "id": "invalid.repo",
+    "logo": "",
+    "manga_providers": [],
+    "comic_providers": []
 }
